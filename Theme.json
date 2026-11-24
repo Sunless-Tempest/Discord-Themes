@@ -11,6 +11,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/Sunless-Tempest/Discord-Themes/main/ede73be3e5c8c26f55b440cbbebf69ef.jpg",
     "blur": 1,
-    "alpha": 0.3
+    "alpha": 1,
+    "color": "#220403"
   }
 }
