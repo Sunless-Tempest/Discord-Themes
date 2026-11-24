@@ -1,0 +1,16 @@
+{
+  "spec": 2,
+  "name": "My theme",
+  "description": "Custom background",
+  "semanticColors": {
+    "CHAT_BACKGROUND": ["#220403"],
+    "BACKGROUND_PRIMARY": ["#220403"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#220403"]
+  },
+  "rawColors": {},
+  "background": {
+    "url": "https://raw.githubusercontent.com/Sunless-Tempest/Discord-Themes/blob/main/ede73be3e5c8c26f55b440cbbebf69ef.jpg",
+    "blur": 1,
+    "alpha": 0.3
+  }
+}
